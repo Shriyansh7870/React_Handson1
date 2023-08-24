@@ -1,7 +1,5 @@
 import "./App.css";
 import Dispaly, { Buttontwo } from "./Component/Display";
-import Demo1 from "./Component/Class";
-import Demo from "./Component/Function";
 function App() {
   return (
     <div className="App">
