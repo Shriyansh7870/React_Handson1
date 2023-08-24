@@ -1,0 +1,47 @@
+.fun{
+    position: absolute;
+    margin-top: -330px;
+   font-size: 40px;
+   color: blue;
+   text-shadow: 2px 2px #ff0000;
+}
+.btn1{
+    position:fixed;
+    top:125px;
+    left:180px;
+    height: 60px;
+    width: 280px;
+    border-radius: 20px;
+    background-color: aqua;
+    align-items: center;  
+    font-weight: bold;
+}
+.btn2{
+    position: fixed;
+    top:125px;
+    left:1050px;
+    height: 60px;
+    width: 280px;
+    border-radius: 20px;
+    background-color: aqua;  height: 60px;
+    align-items: center;
+    font-weight: bold;
+}
+.Div1{
+    border:5px solid black;
+    border-radius: 10px;
+    width: 420px;
+    height: 260px;
+    background-color: rgb(167, 111, 220);
+    text-align: center;
+ 
+}
+.Div2{
+    border:5px solid black;
+    border-radius: 10px;
+    width: 420px;
+    height: 260px;
+    background-color: rgb(167, 111, 220); 
+    text-align: center;
+   
+}
